@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets (Protects Gemini API key & email passwords)
+.env
+
+# Temporary & runtime files
+temp_captcha.png
